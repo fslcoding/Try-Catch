@@ -1,0 +1,14 @@
+C:\Users\elliot alderson\Documents\GitHub\Try_Catch\obj\Debug\net8.0\Try_Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elliot alderson\Documents\GitHub\Try_Catch\obj\Debug\net8.0\Try_Catch.AssemblyInfoInputs.cache
+C:\Users\elliot alderson\Documents\GitHub\Try_Catch\obj\Debug\net8.0\Try_Catch.AssemblyInfo.cs
+C:\Users\elliot alderson\Documents\GitHub\Try_Catch\obj\Debug\net8.0\Try_Catch.csproj.CoreCompileInputs.cache
+C:\Users\elliot alderson\Documents\GitHub\Try_Catch\bin\Debug\net8.0\Try_Catch.exe
+C:\Users\elliot alderson\Documents\GitHub\Try_Catch\bin\Debug\net8.0\Try_Catch.deps.json
+C:\Users\elliot alderson\Documents\GitHub\Try_Catch\bin\Debug\net8.0\Try_Catch.runtimeconfig.json
+C:\Users\elliot alderson\Documents\GitHub\Try_Catch\bin\Debug\net8.0\Try_Catch.dll
+C:\Users\elliot alderson\Documents\GitHub\Try_Catch\bin\Debug\net8.0\Try_Catch.pdb
+C:\Users\elliot alderson\Documents\GitHub\Try_Catch\obj\Debug\net8.0\Try_Catch.dll
+C:\Users\elliot alderson\Documents\GitHub\Try_Catch\obj\Debug\net8.0\refint\Try_Catch.dll
+C:\Users\elliot alderson\Documents\GitHub\Try_Catch\obj\Debug\net8.0\Try_Catch.pdb
+C:\Users\elliot alderson\Documents\GitHub\Try_Catch\obj\Debug\net8.0\Try_Catch.genruntimeconfig.cache
+C:\Users\elliot alderson\Documents\GitHub\Try_Catch\obj\Debug\net8.0\ref\Try_Catch.dll
