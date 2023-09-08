@@ -29,7 +29,7 @@ The **_Catch_** block is the code to be run if try error.
 
 ## Useful Links
 
-[W3](https://www.w3schools.com/cs/cs_exceptions.php)
+[W3 Schools Exceptions](https://www.w3schools.com/cs/cs_exceptions.php)
 
 # Tasks
 
