@@ -16,7 +16,7 @@ catch(Exception ex) {
 ```
 
 The **_Try_** block is the code to be tested. <br>
-The **_Catch_** block is the code to be run if try error.
+The **_Catch_** block is the code to be run if try errors.
 
 <details>
     <summary>
