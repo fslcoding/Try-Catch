@@ -27,6 +27,16 @@ The **_Catch_** block is the code to be run if try errors.
 
 </details>
 
+<details>
+    <summary>
+        If the users enters the word "5", what will be the Output?
+    </summary>
+    
+    Success. Your age is 5
+
+</details>
+
+
 ## Useful Links
 
 [W3 Schools Exceptions](https://www.w3schools.com/cs/cs_exceptions.php)
