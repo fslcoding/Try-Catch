@@ -5,7 +5,7 @@ Try Catch Blocks are the basis of error-catching in C#
 
 If you are running code which could result in an error, you should use a try catch
 
-```
+```csharp
 try {
     string ReadIn = Console.ReadLine();
     int number = Convert.ToInt32(ReadIn);
